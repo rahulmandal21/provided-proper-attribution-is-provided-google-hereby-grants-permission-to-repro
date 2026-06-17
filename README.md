@@ -1,0 +1,2 @@
+# provided-proper-attribution-is-provided-google-hereby-grants-permission-to-repro
+Auto-generated implementation of: Provided proper attribution is provided, Google hereby grants permission to reproduce the tables and figures in this paper solely for use in journalistic or scholarly works. Attention Is All You Need
